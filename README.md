@@ -10,6 +10,7 @@ Contributors:
 - Lianfen Qian (course instructor, Fall 2026)
 - Joseph Watkins (course instructor, Fall 2026)
 - All students who enrolled into the course, Spring and Fall 2026
+- David Rincon Villanueva
 - Veronica Ellingboe
 - Sarayu Gadi
 - Sierra Herrera
