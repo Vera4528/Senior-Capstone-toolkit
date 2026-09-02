@@ -22,6 +22,7 @@ Contributors:
 - Dora Elalaoui (student)
 - Hanfei Yang
 - Alex Marcek
+- Mohammad Alnahash
 
 This is our shared collection of useful resources and code snippets for Statistics and Data Science. We will work on adding the resources from the Brightspace Site here over time.
 
